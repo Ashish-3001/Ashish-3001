@@ -1,5 +1,11 @@
 # 💫 About Me:
-Full-stack developer with backend expertise, engineering scalable SaaS applications across diverse tech stacks,  including .NET, Django, Angular, and MySQL. <br><br>Proficient in architecting APIs, designing robust database structures, implementing seamless integrations, background task automation, and real-time data pipelines. <br>            <br><b>Driven by a passion for transforming concepts into high-performance solutions ready for deployment. </b> <br>          <br> Pursuing a Master’s in Computer Science and Engineering at the University at Buffalo (Dec 2025), while interning at Invisible Strengths as part of the DivInc x Blackstone LaunchPad Summer 2025 program, contributing to full-stack development. <br> <br> 
+Pursuing a Master’s in Computer Science and Engineering at the University at Buffalo (Dec 2025), and currently interning at Invisible Strengths through the DivInc x Blackstone LaunchPad Summer 2025 program, contributing to full-stack development. <br><br>
+
+Full-stack developer with backend expertise, engineering scalable SaaS applications across diverse tech stacks, including .NET, Django, Angular, and MySQL. <br><br>
+
+Proficient in architecting APIs, designing robust database structures, implementing seamless integrations, background task automation, and real-time data pipelines. <br><br>
+
+<b>Driven by a passion for transforming concepts into high-performance solutions ready for deployment.</b> <br><br>
 
 
 ## 🌐 Socials:
